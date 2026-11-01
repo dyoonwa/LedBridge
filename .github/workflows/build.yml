@@ -52,3 +52,4 @@ jobs:
         with:
           files: LedBridge-${{ github.ref_name }}.apk
           generate_release_notes: true
+# trigger build on my fork
